@@ -2,7 +2,7 @@
   "name": "portfolio-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicoloparco.github.io/Portfolio-Page-React-TailwindCSS/",
+  "homepage": "https://nicoloparco.github.io/PortfolioPageReactTailwindCSS/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
