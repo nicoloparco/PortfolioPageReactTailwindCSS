@@ -4,7 +4,7 @@
     "description": "A sports news and discussion app that combines the best aspects of media outlets such as ESPN as well as community discussion services such as Reddit. This app provides live scores for several different sports, updated news articles, and a place for users to create and comment on sports related content.",
     "techUsed": "Tech Used: React, JavaScript, MongoDB/Mongoose, ExpressJS, NodeJS, HTML, CSS",
     "githubLink": "https://github.com/nicoloparco/bootcamp-final-project",
-    "image": "https://sport.one/content/images/2018/01/2222-18.jpg"
+    "deployedLink": "https://sportshubdevteam.herokuapp.com/"
 },
 {
     "id": 2,
@@ -12,7 +12,7 @@
     "description": "A MySQL based app that allows people to add their own burgers to a database as well as 'eat' them. All entered burger data persists and is displayed through a frontend design.",
     "techUsed": "Tech Used: JavaScript, MySQL, ExpressJS, NodeJS, HTML, CSS",
     "githubLink": "https://github.com/nicoloparco/Burger-Sequelize-App",
-    "image": "#"
+    "deployedLink": "https://burger-mysql-nl.herokuapp.com/"
 },
 {
     "id": 3,
@@ -28,7 +28,7 @@
     "description": "A JavaScript based game in which the player has to reach a certain score by clicking on crystals. Each of the 4 crystals are assigned different values each game and the score to reach is reassigned every game. Also tracks wins and losses.",
     "techUsed": "Tech Used: JavaScript, HTML, CSS",
     "githubLink":"https://github.com/nicoloparco/Crystal-Collector-Game",
-    "image": "#"
+    "deployedLink": "https://nicoloparco.github.io/Crystal-Collector-Game/"
 },
 {
     "id": 5,
@@ -36,7 +36,7 @@
     "description": "An app in which users fill out a questionnaire to determine with other users they are most similar to. Each users' data is saved in JSON format so that whenever a new user completes the survey they will be shown their closest match.",
     "techUsed": "Tech Used: JavaScript, ExpressJS, NodeJS, HTML, CSS",
     "githubLink":"https://github.com/nicoloparco/Friend-Finder",
-    "image": "#"
+    "deployedLink": "https://friend-finder-gt-bootcamp.herokuapp.com/"
 },
 {
     "id": 6,
@@ -59,8 +59,8 @@
     "name": "Trivia Game",
     "description": "An 80's themed JavaScript based trivia game in which the user answers a series of questions each with a 30 second timer. Correct answers receive their own set of responses and images while negative responses receive a different set of responses and images.",
     "techUsed": "Tech Used: JavaScript, JQuery, HTML, CSS",
-    "githubLink": "https://nicoloparco.github.io/Trivia-Game/",
-    "image": "#"
+    "githubLink": "https://github.com/nicoloparco/Trivia-Game",
+    "deployedLink":"https://nicoloparco.github.io/Trivia-Game/"
 },
 {
     "id": 9,
@@ -68,5 +68,6 @@
     "description": "An app that accesses the GIPHY API to provide users gifs related to either a default set of buttons or dynamically generated ones through a searchbar. Default buttons include several TV shows.",
     "techUsed": "Tech Used: JavaScript, JQuery, HTML, CSS",
     "githubLink": "https://nicoloparco.github.io/GIPHY-API-App/",
-    "image": "#"
+    "deployedLink": "https://nicoloparco.github.io/GIPHY-API-App/"
+    
 }]
