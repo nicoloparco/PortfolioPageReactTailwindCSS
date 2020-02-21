@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortfolioPageReactTailwindCSS/static/css/main.e22c8e25.chunk.css",
+    "main.js": "/PortfolioPageReactTailwindCSS/static/js/main.3f068f5d.chunk.js",
+    "main.js.map": "/PortfolioPageReactTailwindCSS/static/js/main.3f068f5d.chunk.js.map",
+    "runtime-main.js": "/PortfolioPageReactTailwindCSS/static/js/runtime-main.4afc9833.js",
+    "runtime-main.js.map": "/PortfolioPageReactTailwindCSS/static/js/runtime-main.4afc9833.js.map",
+    "static/js/2.c7addd1b.chunk.js": "/PortfolioPageReactTailwindCSS/static/js/2.c7addd1b.chunk.js",
+    "static/js/2.c7addd1b.chunk.js.map": "/PortfolioPageReactTailwindCSS/static/js/2.c7addd1b.chunk.js.map",
+    "index.html": "/PortfolioPageReactTailwindCSS/index.html",
+    "precache-manifest.e9a4d3e9c3d2f3a87c6fbf0233076756.js": "/PortfolioPageReactTailwindCSS/precache-manifest.e9a4d3e9c3d2f3a87c6fbf0233076756.js",
+    "service-worker.js": "/PortfolioPageReactTailwindCSS/service-worker.js",
+    "static/css/main.e22c8e25.chunk.css.map": "/PortfolioPageReactTailwindCSS/static/css/main.e22c8e25.chunk.css.map",
+    "static/js/2.c7addd1b.chunk.js.LICENSE.txt": "/PortfolioPageReactTailwindCSS/static/js/2.c7addd1b.chunk.js.LICENSE.txt",
+    "static/media/Sports.jpg": "/PortfolioPageReactTailwindCSS/static/media/Sports.818b9576.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4afc9833.js",
+    "static/js/2.c7addd1b.chunk.js",
+    "static/css/main.e22c8e25.chunk.css",
+    "static/js/main.3f068f5d.chunk.js"
+  ]
+}
