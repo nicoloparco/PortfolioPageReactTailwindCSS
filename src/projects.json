@@ -8,10 +8,18 @@
 },
 {
     "id": 2,
+    "name": "Burger App 2 - The Sequel",
+    "description": "The sequel to the Burger App. This app does all the same things as the original but uses Sequelize and its ORM model. Also features a new design.",
+    "techUsed": "Tech Used: JavaScript, Sequelize, MySQL, ExpressJS, NodeJS, HTML, CSS",
+    "githubLink": "https://github.com/nicoloparco/Burger-2-Sequelize",
+    "deployedLink": "https://burger-2-sequelize-nl.herokuapp.com/"
+},
+{
+    "id": 2,
     "name": "Burger App",
     "description": "A MySQL based app that allows people to add their own burgers to a database as well as 'eat' them. All entered burger data persists and is displayed through a frontend design.",
     "techUsed": "Tech Used: JavaScript, MySQL, ExpressJS, NodeJS, HTML, CSS",
-    "githubLink": "https://github.com/nicoloparco/Burger-Sequelize-App",
+    "githubLink": "https://github.com/nicoloparco/Burger-MySQL-App",
     "deployedLink": "https://burger-mysql-nl.herokuapp.com/"
 },
 {
@@ -69,5 +77,13 @@
     "techUsed": "Tech Used: JavaScript, JQuery, HTML, CSS",
     "githubLink": "https://nicoloparco.github.io/GIPHY-API-App/",
     "deployedLink": "https://nicoloparco.github.io/GIPHY-API-App/"
-    
-}]
+},
+{
+    "id": 10,
+    "name": "NFL Hangman",
+    "description": "A vanilla JavaScript based app that lets the user play a game of Hangman. Each letter guessed is tracked and displayed on the page as well as the users' wins and losses. Once the user gets an answer right or runs out of guesses the word to guess resets. Word bank includes all 32 NFL teams.",
+    "techUsed": "Tech Used: JavaScript, HTML, CSS, TailwindCSS",
+    "githubLink": "https://github.com/nicoloparco/Word-Guess-Game",
+    "deployedLink": "https://nicoloparco.github.io/Word-Guess-Game/"
+}
+]
