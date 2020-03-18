@@ -8,6 +8,14 @@
 },
 {
     "id": 2,
+    "name": "Always Sunny Click Game",
+    "description": "A sports news and discussion app that combines the best aspects of media outlets such as ESPN as well as community discussion services such as Reddit. This app provides live scores for several different sports, updated news articles, and a place for users to create and comment on sports related content.",
+    "techUsed": "Tech Used: React, JavaScript, HTML, CSS, Bootstrap",
+    "githubLink": "https://github.com/nicoloparco/React-Memory-Game",
+    "deployedLink": "https://always-sunny-click-game.herokuapp.com/"
+},
+{
+    "id": 3,
     "name": "Burger App 2 - The Sequel",
     "description": "The sequel to the Burger App. This app does all the same things as the original but uses Sequelize and its ORM model. Also features a new design.",
     "techUsed": "Tech Used: JavaScript, Sequelize, MySQL, ExpressJS, NodeJS, HTML, CSS",
@@ -15,7 +23,7 @@
     "deployedLink": "https://burger-2-sequelize-nl.herokuapp.com/"
 },
 {
-    "id": 2,
+    "id": 4,
     "name": "Burger App",
     "description": "A MySQL based app that allows people to add their own burgers to a database as well as 'eat' them. All entered burger data persists and is displayed through a frontend design.",
     "techUsed": "Tech Used: JavaScript, MySQL, ExpressJS, NodeJS, HTML, CSS",
@@ -23,7 +31,7 @@
     "deployedLink": "https://burger-mysql-nl.herokuapp.com/"
 },
 {
-    "id": 3,
+    "id": 5,
     "name": "Mongoose Scraper",
     "description": "A Mongo based app that scrapes the web for news articles and displays them for the client.",
     "techUsed": "Tech Used: JavaScript, MongoDB/Mongoose, ExpressJS, NodeJs, Handlebars, HTML, CSS",
@@ -31,7 +39,7 @@
     "image": "#"
 },
 {
-    "id": 4,
+    "id": 6,
     "name": "Crystal Collector Game",
     "description": "A JavaScript based game in which the player has to reach a certain score by clicking on crystals. Each of the 4 crystals are assigned different values each game and the score to reach is reassigned every game. Also tracks wins and losses.",
     "techUsed": "Tech Used: JavaScript, HTML, CSS",
@@ -39,7 +47,7 @@
     "deployedLink": "https://nicoloparco.github.io/Crystal-Collector-Game/"
 },
 {
-    "id": 5,
+    "id": 7,
     "name": "Friend Finder",
     "description": "An app in which users fill out a questionnaire to determine with other users they are most similar to. Each users' data is saved in JSON format so that whenever a new user completes the survey they will be shown their closest match.",
     "techUsed": "Tech Used: JavaScript, ExpressJS, NodeJS, HTML, CSS",
@@ -47,7 +55,7 @@
     "deployedLink": "https://friend-finder-gt-bootcamp.herokuapp.com/"
 },
 {
-    "id": 6,
+    "id": 8,
     "name": "CLI Shopper",
     "description": "A MySQL CLI app that simulates a user shopping experience through interaction with a data table of products. Whenever the user selects a product to 'buy' the product table is updated.",
     "techUsed": "Tech Used: JavaScript, MySQL, NodeJS",
@@ -55,7 +63,7 @@
     "image": "#"
 },
 {
-    "id": 7,
+    "id": 9,
     "name": "LIRI Bot",
     "description": "A sports news and discussion app that combines the best aspects of media outlets such as ESPN as well as community discussion services such as Reddit. This app provides live scores for several different sports, updated news articles, and a place for users to create and comment on sports related content.A NodeJS CLI app that accesses three different API's to return data to the user. The Spotify, BandsInTown, and OMBD API's are all used to return song, artist, and movie data.",
     "techUsed": "Tech Used: JavaScript, NodeJS",
@@ -63,7 +71,7 @@
     "image": "#"
 },
 {
-    "id": 8,
+    "id": 10,
     "name": "Trivia Game",
     "description": "An 80's themed JavaScript based trivia game in which the user answers a series of questions each with a 30 second timer. Correct answers receive their own set of responses and images while negative responses receive a different set of responses and images.",
     "techUsed": "Tech Used: JavaScript, JQuery, HTML, CSS",
@@ -71,7 +79,7 @@
     "deployedLink":"https://nicoloparco.github.io/Trivia-Game/"
 },
 {
-    "id": 9,
+    "id": 11,
     "name": "GIPHY App",
     "description": "An app that accesses the GIPHY API to provide users gifs related to either a default set of buttons or dynamically generated ones through a searchbar. Default buttons include several TV shows.",
     "techUsed": "Tech Used: JavaScript, JQuery, HTML, CSS",
@@ -79,7 +87,7 @@
     "deployedLink": "https://nicoloparco.github.io/GIPHY-API-App/"
 },
 {
-    "id": 10,
+    "id": 12,
     "name": "NFL Hangman",
     "description": "A vanilla JavaScript based app that lets the user play a game of Hangman. Each letter guessed is tracked and displayed on the page as well as the users' wins and losses. Once the user gets an answer right or runs out of guesses the word to guess resets. Word bank includes all 32 NFL teams.",
     "techUsed": "Tech Used: JavaScript, HTML, CSS, TailwindCSS",
