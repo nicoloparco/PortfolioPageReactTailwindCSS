@@ -9,7 +9,7 @@
 {
     "id": 2,
     "name": "Always Sunny Click Game",
-    "description": "A sports news and discussion app that combines the best aspects of media outlets such as ESPN as well as community discussion services such as Reddit. This app provides live scores for several different sports, updated news articles, and a place for users to create and comment on sports related content.",
+    "description": "Front-end React App that is an 'It's Always Sunny In Philadelphia' Click Game. There are 12 different character cards to click on. Clicking on one will give you one point however, if you click the same card twice your score resets and you lose the game. UI displays both current score and top score as well as a message that changes depending on whether ou guess correctly/incorrectly or win/lose.",
     "techUsed": "Tech Used: React, JavaScript, HTML, CSS, Bootstrap",
     "githubLink": "https://github.com/nicoloparco/React-Memory-Game",
     "deployedLink": "https://always-sunny-click-game.herokuapp.com/"
